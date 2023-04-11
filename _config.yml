@@ -1,4 +1,4 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=K-nakata
 #
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: K-nakata     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: K-nakata     # Default author for posts
 
 
 
@@ -192,8 +192,7 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : tyukei
 
 
 #        ____  _
